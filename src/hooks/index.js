@@ -1,0 +1,1 @@
+export { useChildHook } from "./useChildHook";
